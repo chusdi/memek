@@ -1,43 +1,5 @@
-DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <title>Grow a Garden – Minigame Roblox</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0fdf4;
-      color: #1a202c;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #2f855a;
-    }
-    img {
-      display: block;
-      max-width: 100%;
-      height: auto;
-      margin: 20px auto;
-      border-radius: 8px;
-      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
-    }
-    p {
-      margin-bottom: 16px;
-      text-align: justify;
-      line-height: 1.6;
-    }
-    footer {
-      text-align: center;
-      color: #4a5568;
-      font-size: 14px;
-      margin-top: 40px;
-    }
-  </style>
-</head>
-<body>
+
+  
 
   <h1>Grow a Garden: Minigame Seru di Roblox</h1>
 
