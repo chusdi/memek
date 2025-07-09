@@ -1,0 +1,93 @@
+DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Grow a Garden – Minigame Roblox</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0fdf4;
+      color: #1a202c;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #2f855a;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 20px auto;
+      border-radius: 8px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    }
+    p {
+      margin-bottom: 16px;
+      text-align: justify;
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      color: #4a5568;
+      font-size: 14px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Grow a Garden: Minigame Seru di Roblox</h1>
+
+  <img src="https://static.businessinsider.com/image_url" alt="Screenshot Grow a Garden 1">
+  <p>
+    "Grow a Garden" adalah salah satu minigame paling populer di Roblox. Dikembangkan oleh remaja berusia 16 tahun bersama studio profesional, game ini menarik jutaan pemain dengan konsep berkebun virtual yang sederhana namun adiktif :contentReference[oaicite:2]{index=2}.
+  </p>
+
+  <img src="https://static.thegamer.com/image_url" alt="Screenshot Grow a Garden 2">
+  <p>
+    Pemain memulai dengan sebidang tanah kecil, beberapa benih sederhana seperti wortel, dan mengandalkan sistem cuaca dinamis. Ketika hujan turun, tanaman tumbuh lebih cepat, sementara petir memberi peluang mutasi bernilai tinggi :contentReference[oaicite:3]{index=3}.
+  </p>
+
+  <img src="https://static.gamerant.com/image_url" alt="Screenshot Grow a Garden 3">
+  <p>
+    Mutasi tanaman—seperti Wet dan Shocked saat hujan atau petir—bisa meningkatkan nilai panen secara signifikan. Ada juga mutasi langka seperti Golden dan Rainbow yang memberi biaya jual berkali lipat :contentReference[oaicite:4]{index=4}.
+  </p>
+
+  <img src="https://static.thegamer.com/another_image_url" alt="Screenshot Grow a Garden 4">
+  <p>
+    Selain tanaman, pemain bisa membeli gear seperti sprinkler dan pet lewat Sheckles atau Robux. Gear ini membantu meningkatkan efisiensi dan memperluas lahan kebun :contentReference[oaicite:5]{index=5}.
+  </p>
+
+  <p>
+    Salah satu daya tarik game ini adalah leaderboard global, yang mendorong persaingan sehat antar pemain untuk mengembangkan kebun terbaik dan meraih pendapatan tertinggi :contentReference[oaicite:6]{index=6}.
+  </p>
+
+  <p>
+    Dari segi grafik, "Grow a Garden" memakai tekstur khas Roblox bergaya Lego. Tampilan ini dipadu dengan gameplay relaksatif ala FarmVille, yang ternyata mampu melampaui game-game besar seperti Counter‑Strike 2 dari segi jumlah pemain online bersamaan :contentReference[oaicite:7]{index=7}.
+  </p>
+
+  <p>
+    Game ini juga memberikan fitur sosial: kunjungi kebun teman, hadiah event musiman, dan komunitas yang aktif. Misalnya Summer Update dengan Rare Pets seperti Flamingo dan Toucan yang menambah keseruan :contentReference[oaicite:8]{index=8}.
+  </p>
+
+  <p>
+    Meski sederhana, model permainan ini telah menghasilkan pasar sekunder di Discord dan eBay—meskipun itu melanggar aturan Roblox—menunjukkan tingginya nilai item di dalam game :contentReference[oaicite:9]{index=9}.
+  </p>
+
+  <p>
+    Game ini cocok untuk segala usia, karena tidak ada unsur kekerasan dan justru mengajarkan pola pikir strategi, manajemen, dan kesabaran dalam membangun kebun digital.
+  </p>
+
+  <p>
+    Kalau kamu belum coba, yuk mulai main "Grow a Garden" sekarang—tanam, panen, dan kembangkan kebunmu jadi yang terbaik di Roblox!
+  </p>
+
+  <footer>
+    © 2025 Fanpage Roblox • Artikel & gambar diambil dari sumber publik (Business Insider, The Gamer, Game Rant)
+  </footer>
+
+</body>
+</html>
